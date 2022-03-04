@@ -1,5 +1,4 @@
 <?php
-
 /* 
 Traccia esercitazione.
 
@@ -69,5 +68,4 @@ echo '<pre>';
 var_dump($Ritorno_al_futuro, $Spiderman);
 var_dump('Titolo primo film: ' . $Ritorno_al_futuro->getTitle(), 'Lingua originale: ' . $Ritorno_al_futuro->getOriginalLanguage());
 var_dump('Titolo secondo film: ' . $Spiderman->getTitle(), 'Lingua originale: ' . $Spiderman->getOriginalLanguage());
-echo '</pre>';
 
